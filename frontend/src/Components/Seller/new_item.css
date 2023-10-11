@@ -1,0 +1,46 @@
+.Login{
+    height: 400px
+}
+
+.Buffer{
+   height: 150px;
+}
+
+.Header{
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom: -150px;
+}
+
+.p{
+    text-align: center;
+}
+
+.CloseButton {
+    margin-left: 50px;
+}
+
+.alertmessage {
+    text-align: center;
+    display: inline;
+    padding-left: 50px;
+}
+
+.erroralertmessage {
+    text-align: center;
+    display: inline;
+    padding-left: -50px;
+}
+
+.parent {
+    width: 1025px;
+}
+
+.description {
+    height: 100px;
+}
+
+.imageupload {
+    margin-top: 5%;
+    margin-left: 15%;
+}

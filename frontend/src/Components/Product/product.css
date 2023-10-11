@@ -1,0 +1,77 @@
+.fields{
+    text-align: left;
+    margin-left: 10%;
+    display: inline;
+}
+
+.value{
+    font-size: 25px;
+    text-align: right;
+}
+
+.alertprofiles {
+    height: 50px;
+    width: 750px;
+    margin-left: 28%;
+}
+
+.productmainheader{
+    margin-top: 50px;
+    margin-bottom: 10%;
+    margin-left: 0%;
+    text-align: center;
+}
+
+.itemheader {
+    margin-top: 3%;
+    text-align: center;
+    margin-bottom: 7%;
+}
+
+.itemdesc {
+    text-align: center;
+    margin-bottom: 7%;
+    margin-left: 5%;
+}
+
+.card {
+    border-width: 2px;
+    border-color: black;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: -3%;
+}
+
+.card_review {
+    margin-bottom: 5%;
+}
+
+.reviewexception {
+    text-align: center;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    margin-top: -3%;
+}
+
+.BuyButton {
+    margin-bottom: 5%;
+    margin-left: 48%;
+    margin-top: -3%;
+}
+
+.productImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: -2%;
+    margin-bottom: 10%;
+}
+
+.stardisplay {
+    font-size: 32px;
+}
+
+.totalstars {
+    margin-top: -7%;    
+}

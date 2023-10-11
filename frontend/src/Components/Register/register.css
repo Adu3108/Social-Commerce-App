@@ -1,0 +1,12 @@
+.Register{
+    height: 400px
+}
+
+.Buffer{
+   height: 150px;
+}
+
+.registerheader {
+    text-align: center;
+    margin-top: 5%;
+}

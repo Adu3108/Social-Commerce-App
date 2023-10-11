@@ -1,0 +1,47 @@
+.Login{
+    height: 400px
+}
+
+.Buffer{
+   height: 150px;
+}
+
+.ReviewHeader{
+    margin-left: 0%;
+    margin-bottom: 2%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.p{
+    text-align: center;
+}
+
+.CloseButton {
+    margin-left: 50px;
+}
+
+.alertmessage {
+    text-align: center;
+    display: inline;
+    padding-left: 50px;
+}
+
+.erroralertmessage {
+    text-align: center;
+    display: inline;
+    padding-left: -50px;
+}
+
+.parent {
+    width: 1025px;
+}
+
+.description {
+    height: 100px;
+}
+
+.stars {
+    margin-left: -1%;
+    margin-bottom: 3%;
+}

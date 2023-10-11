@@ -1,0 +1,18 @@
+.CalendarHeader {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.calendarclass {
+    margin-left: 38%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.selectedDate {
+    margin-left: 32%;
+}
+
+ .react-calendar .highlight {
+    background-color: greenyellow;
+  }

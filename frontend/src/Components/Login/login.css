@@ -1,0 +1,27 @@
+.Login{
+    height: 400px
+}
+
+.Buffer{
+   height: 150px;
+}
+
+.loginheaderfile {
+    margin-top: 5%;
+}
+
+.AlreadyLogged {
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+.buttonlist {
+    margin-left: 40%;
+}
+
+.leftbutton {
+    margin-right: 10%;
+}

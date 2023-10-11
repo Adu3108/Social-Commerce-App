@@ -1,0 +1,25 @@
+.fields{
+    text-align: left;
+    margin-left: 10%;
+    display: inline;
+}
+
+.value{
+    font-size: 25px;
+    text-align: right;
+}
+
+.profileheader{
+    margin-top: 0px;
+    margin-bottom: 70px;
+    margin-left: 0%;
+}
+
+.alertseller {
+    margin-left: -17%;
+    margin-bottom: 5%;
+}
+
+.alerttext {
+    margin-left: 8%;
+}

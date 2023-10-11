@@ -1,0 +1,29 @@
+.formlabel{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+
+.buttons{
+    margin-top: 1%;
+    margin-left: 7%;
+}
+
+.formvalue{
+    margin-left: 20%;
+}
+
+.alertpayment {
+    width : 800px;
+    margin-left: 25%;
+}
+
+.paymentheader {
+    margin-bottom: 5%;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 4%;
+}
+
+.paymentsuccess {
+    width: 500px;
+}
