@@ -1,6 +1,6 @@
 # Social Commerce Web Application
 
-This repository contains the project done as a part of the course CS387: Database and Information Systems at IIT Bombay in Spring 2023 
+This repository contains the project done as a part of the course CS 387: Database and Information Systems at IIT Bombay in Spring 2023 
 
 ## Problem Statement
 
